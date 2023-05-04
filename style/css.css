@@ -1,0 +1,52 @@
+
+.container {
+    width: 1200px;
+    height: 800px;
+    border: 1px solid #333;
+    padding: 10px;
+    position: absolute;
+    right: 150px;
+    border-radius: 5px;
+ }
+ /*==cột #post==*/
+ #post {
+   position: absolute;
+   width: 600px;
+   height: 400px;
+   background: #ffff;
+   top: 10px;
+   left: 10px;
+
+ }
+ /*==cột #sidebar==*/
+ #sidebar {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    background: #ffff;
+    top: 10px;
+    right: 10px;
+ }
+ #si{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    background:#ffff(27, 135, 219);
+    top: 411px;
+    left: 10px;
+ }
+ #bar{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    background: #ffff;
+    top: 0px;
+    left: 600px;
+ }
+ .col-md-8{
+    text-align: left;
+    position: absolute;
+    top: 5px;
+    left: 280px;
+ }
+ 
